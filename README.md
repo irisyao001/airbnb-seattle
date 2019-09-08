@@ -1,14 +1,14 @@
-Table of Content
+#Table of Content
 	1. Installation
 	2. Project Motivation
 	3. File Descriptions
 	4. Results
 	5. Licensing, Authors, and Acknowledgements
 
-Installation
+#Installation
 	Packages have been used in this notebook are: Numpy, Pandas, Seaborn, and Matplotlib
 
-Project Motivation
+#Project Motivation
 	For this project, I am going to use Airbnb Seattle data from 01/2016 to 01/2017 to undertand these questions: 
 		1. Which neighborhoods have most listings? 
 		2. What is the cost-effective time to visit Seattle？ 
